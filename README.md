@@ -27,14 +27,12 @@ The data set is a csv file with the loan data for the Lending Club
 
 
 ## Technologies Used
-Python - Version 3.9.12
-numpy - Version 1.21.5
-pandas - Version 1.4.2
-matplotlib - Version 3.5.1
-seaborn - Version 0.11.2
-Jupyter Notebook - Version 3.3.2
-JupyterLab - Version 6.4.11
-Anaconda - Version 2.1.4
+* [Python - Version 3.9.12]
+* [numpy - Version 1.21.5]
+* [pandas - Version 1.4.2]
+* [matplotlib - Version 3.5.1]
+* [seaborn - Version 0.11.2]
+* [Jupyter Notebook - Version 3.3.2]
 ## Acknowledgements
 
 
